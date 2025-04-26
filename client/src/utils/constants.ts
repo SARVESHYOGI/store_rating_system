@@ -1,4 +1,4 @@
-export const API_URL = 'http://localhost:3000/api';
+export const API_URL = 'https://pern-e1vx.onrender.com/api';
 
 export const USER_ROLES = {
   ADMIN: 'ADMIN',
